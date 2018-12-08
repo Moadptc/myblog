@@ -1,0 +1,20 @@
+body
+{
+    background: #f9f9f9;
+    overflow-x: hidden;
+}
+
+.slider-main img
+{
+    height: 480px;
+}
+
+.one-article img
+{
+    height: 150px;
+}
+
+.share-icon img
+{
+    width: 70px;
+}
