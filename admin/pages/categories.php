@@ -1,3 +1,5 @@
+<?php // if (!isset($_SESSION['adminstrator'])) ?>
+
 <!doctype html>
 <html lang="en">
 <head>

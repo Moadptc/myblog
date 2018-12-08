@@ -22,5 +22,7 @@ include $content;
 
 include "includes/footer.php";
 
+echo '';
+
 
 ?>
